@@ -1,6 +1,6 @@
 ---
-title: Use Case 00000
-date: 2026-04-16 14:02:00 -0600
+title: "Use Case 00000: Introductory Example Project"
+date: 2026-05-11
 categories: [Use Case, Test]
 tags: [audiovisual]     # TAG names should always be lowercase
 ---
