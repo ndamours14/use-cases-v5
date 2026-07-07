@@ -8,4 +8,4 @@ Interested in creating your own AV annotation project? Below is a simple tutoria
 
 (insert video)
 
-If you would like to add a use case recipe and/or an example project to the Recipe Book, please contact [ndamours@ualberta.ca](ndamours@ualberta.ca)!
+If you would like to add a use case recipe and/or an example project to the Recipe Book, please contact **ndamours@ualberta.ca**!
